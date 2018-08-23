@@ -1,0 +1,12 @@
+EVALUACIONES:
+2 parciales
+2 trabajos practicos
+
+PROMOCIÓN:
+primer tp con backend
+servidor web
+poo
+ajax http
+validacion
+exportacion (pdf, csv) y metricas
+pipe
